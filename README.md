@@ -42,7 +42,7 @@ focused on designing intelligent systems that think, reason, and act autonomousl
 
 ## 📌 Featured Projects
 
-### 🤖 [Career Digital Twin Agent](https://github.com/AkilanP1726/career-digital-twin)
+### 🤖 [My_AIRep](https://github.com/AkilanP1726/My_AIRep)
 > An AI Agent that represents me to potential employers — answers questions about my skills, experience, and projects autonomously.
 >
 > **Stack**: CrewAI · Python · OpenAI
