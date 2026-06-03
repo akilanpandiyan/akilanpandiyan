@@ -42,7 +42,7 @@ focused on designing intelligent systems that think, reason, and act autonomousl
 
 ## 📌 Featured Projects
 
-### 🤖 [My_AIRep](https://github.com/AkilanP1726/My_AIRep)
+### 🤖 [My_AIRep](https://huggingface.co/spaces/apandiyan1/My_AIRep)
 > An AI Agent that represents me to potential employers — answers questions about my skills, experience, and projects autonomously.
 >
 > **Stack**: CrewAI · Python · OpenAI
